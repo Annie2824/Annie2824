@@ -3,6 +3,8 @@
 
 ![image](https://user-images.githubusercontent.com/96468875/204165778-15ab5666-78c4-4486-87f0-ed456caf8a05.png)
 
+![Profile views](https://gpvc.arturio.dev/a11y-2824)  
+
 Skills: PYTHON / C / JS / HTML / CSS
 
 - 🔭 I’m currently working on creating complete web application 
@@ -40,5 +42,5 @@ Skills: PYTHON / C / JS / HTML / CSS
 
 <!--![GitHub metrics](https://metrics.lecoq.io/a11y-2824)-->
 
-![Profile views](https://gpvc.arturio.dev/a11y-2824)  
+
 <!--START_SECTION:activity-->
