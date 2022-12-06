@@ -36,10 +36,6 @@ Skills: PYTHON / C / JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=a11y-2824)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-
-
 <!--![GitHub metrics](https://metrics.lecoq.io/a11y-2824)-->
-
-
 <!--START_SECTION:activity-->
+# ![Header](./footer.svg)
