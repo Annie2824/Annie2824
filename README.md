@@ -17,8 +17,8 @@ Skills: PYTHON / C / JS / HTML / CSS
 | :---: | :---: |
 
 
-[![Anne's github activity graph](https://activity-graph.herokuapp.com/graph?username=a11y-2824&theme=github)](https://github.com/a11y-2824/github-readme-activity-graph)
-
+<!--[![Anne's github activity graph](https://activity-graph.herokuapp.com/graph?username=a11y-2824&theme=react)](https://github.com/a11y-2824/github-readme-activity-graph)-->
+[![Anne's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=a11y-2824&theme=react-dark&area=true&hide_border=true)](https://github.com/a11y-2824/github-readme-activity-graph)
 
 # Languages and Tools:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a11y-2824)](https://github.com/anuraghazra/github-readme-stats)
