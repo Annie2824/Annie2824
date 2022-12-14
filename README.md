@@ -27,10 +27,10 @@ Skills: PYTHON / C / JS / HTML / CSS
 
 # Trophies and Badges:
 [![trophy](https://github-profile-trophy.vercel.app/?username=a11y-2824)](https://github.com/ryo-ma/github-profile-trophy)
-
+  
+# ![Header](./footer.svg)
 <!--a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> -->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=a11y2824)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--![GitHub metrics](https://metrics.lecoq.io/a11y-2824)-->
 <!--START_SECTION:activity-->
-# ![Header](./footer.svg)
