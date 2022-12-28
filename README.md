@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, My name is Anne </h1>
 
-![image](https://user-images.githubusercontent.com/96468875/204165778-15ab5666-78c4-4486-87f0-ed456caf8a05.png)
+![image](https://user-images.githubusercontent.com/96468875/209809533-045d99e4-c113-470a-b8c7-4868e47bc4bd.png)
+
 
 ![Profile views](https://gpvc.arturio.dev/a11y-2824)  
 
