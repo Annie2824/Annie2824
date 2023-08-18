@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/96468875/209809533-045d99e4-c113-470a-b8c7-4868e47bc4bd.png)
 
 
-![Profile views]![](https://komarev.com/ghpvc/?username=a11y-2824&color=ff69b4) 
+![Profile views](https://komarev.com/ghpvc/?username=a11y-2824&color=ff69b4) 
 
 Skills: PYTHON / C / JS / HTML / CSS
 
