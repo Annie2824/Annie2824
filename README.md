@@ -7,7 +7,7 @@
 
 Skills: PYTHON / C / JS / HTML / CSS
 
-- 🔭 I’m currently working on creating complete web application 
+- 🔭 I’m currently working on creating a complete web application 
 - 🌱 I’m currently learning using python 
 - 👯 I’m looking to collaborate on creating APIs 
 - 😄 Pronouns: she/her 
