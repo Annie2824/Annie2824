@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/96468875/209809533-045d99e4-c113-470a-b8c7-4868e47bc4bd.png)
 
 
-![Profile views](https://gpvc.arturio.dev/a11y-2824)  
+![Profile views]![](https://komarev.com/ghpvc/?username=a11y-2824&color=ff69b4) 
 
 Skills: PYTHON / C / JS / HTML / CSS
 
@@ -18,8 +18,9 @@ Skills: PYTHON / C / JS / HTML / CSS
 
 
 <!--[![Anne's github activity graph](https://activity-graph.herokuapp.com/graph?username=a11y-2824&theme=react)](https://github.com/a11y-2824/github-readme-activity-graph)-->
-[![Anne's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=a11y-2824&theme=react-dark)](https://github.com/a11y-2824/github-readme-activity-graph)
 <!--(https://github-readme-activity-graph.cyclic.app/graph?username=a11y-2824&theme=react-dark&area=true&hide_border=true)](https://github.com/a11y-2824/github-readme-activity-graph) -->
+[![Anne's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=a11y-2824&theme=react-dark)](https://github.com/a11y-2824/github-readme-activity-graph)
+
 
 | <h1>  &emsp; &emsp; Languages and Tools &emsp; &emsp; &ensp; | <h1>  &emsp; &emsp; Connect with me &emsp; &emsp; &emsp; &ensp; |
 | :---: | :---: |
