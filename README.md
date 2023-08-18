@@ -18,7 +18,8 @@ Skills: PYTHON / C / JS / HTML / CSS
 
 
 <!--[![Anne's github activity graph](https://activity-graph.herokuapp.com/graph?username=a11y-2824&theme=react)](https://github.com/a11y-2824/github-readme-activity-graph)-->
-[![Anne's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=a11y-2824&theme=react-dark&area=true&hide_border=true)](https://github.com/a11y-2824/github-readme-activity-graph)
+[![Anne's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=a11y-2824&theme=react-dark)](https://github.com/a11y-2824/github-readme-activity-graph)
+<!--(https://github-readme-activity-graph.cyclic.app/graph?username=a11y-2824&theme=react-dark&area=true&hide_border=true)](https://github.com/a11y-2824/github-readme-activity-graph) -->
 
 | <h1>  &emsp; &emsp; Languages and Tools &emsp; &emsp; &ensp; | <h1>  &emsp; &emsp; Connect with me &emsp; &emsp; &emsp; &ensp; |
 | :---: | :---: |
